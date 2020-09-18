@@ -1,2 +1,2 @@
-# MarketPlace-Web
-Github's design repository of Canasta Rosa
+# MIJO Sketch files
+MIJO Github's Repo, only contains the master sketch file
